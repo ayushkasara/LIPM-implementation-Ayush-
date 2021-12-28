@@ -1,5 +1,4 @@
-# MIT LICENSE
-# https://github.com/bponsler/kinectToPly/blob/master/kinectToPly.py
+
 import numpy as np
 
 
