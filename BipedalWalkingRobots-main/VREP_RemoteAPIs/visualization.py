@@ -1,10 +1,4 @@
-# -*- coding: utf-8 -*-
-"""Code for visualizing data in sim via python.
 
-Author: Andrew Hundt <ATHundt@gmail.com>
-
-License: Apache v2 https://www.apache.org/licenses/LICENSE-2.0
-"""
 import os
 import errno
 import traceback
